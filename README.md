@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [SplitEasy](https://splt-easy.netlify.app)
 
+- 🌱 I’m currently learning **React Native**
+
 - 📫 How to reach me **ibrahim.benjelloun@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
