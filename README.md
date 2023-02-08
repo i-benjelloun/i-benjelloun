@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
-<h3 align="center">I am a fullstack developer ! (MERN stack)</h3>
+<h3 align="center">I am a fullstack developer !</h3>
 
 - 🔭 I’m currently working on [SplitEasy](https://splt-easy.netlify.app)
 
