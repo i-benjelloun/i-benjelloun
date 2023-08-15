@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-benjelloun&label=Profile%20views&color=0e75b6&style=flat" alt="i-benjelloun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-benjelloun" alt="i-benjelloun" /></a> </p>
-
 - 🔭 I’m currently working at [Mytraffic](https://www.mytraffic.io/fr/?utm_source=adword&utm_medium=cpc&utm_campaign=sea_brand_protect_fr&utm_term=mytraffic&utm_campaign=NEW+-+Brand+Protect&utm_source=adwords&utm_medium=ppc&hsa_acc=2982417509&hsa_cam=19944227264&hsa_grp=148977408218&hsa_ad=654269994691&hsa_src=g&hsa_tgt=kwd-286469863&hsa_kw=mytraffic&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwoeemBhCfARIsADR2QCsyOkAp4-6teocx-YYk7HHbWwM3Ym9mJZG9h6ApaRbQ8_HGzzRQH-4aAm2LEALw_wcB)
 
 - 💬 Ask me about **Typescript, Python, React & Django**
